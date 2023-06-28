@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working on my own projects<br>✔️ I’m looking to collaborate with others developers<br>🤝 I’m looking for team working<br>🌱 I’m currently learning phyton and web development<br>⚡ Fun fact: I like the purple color and number 7
+🔭 I’m working on my own projects<br>✔️ I’m looking to collaborate with others developers<br>🤝 I’m looking for team working<br>🌱 I’m currently learning python and web development<br>⚡ Fun fact: I like the purple color and number 7
 
 
 ## 🌐 Socials:
